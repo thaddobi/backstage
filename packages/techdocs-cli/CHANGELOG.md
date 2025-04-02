@@ -1,5 +1,12 @@
 # @techdocs/cli
 
+## 1.9.2-next.2
+
+### Patch Changes
+
+- Updated dependencies
+  - @backstage/plugin-techdocs-node@1.13.2-next.2
+
 ## 1.9.2-next.1
 
 ### Patch Changes

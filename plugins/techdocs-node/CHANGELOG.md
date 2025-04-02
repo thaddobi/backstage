@@ -1,5 +1,11 @@
 # @backstage/plugin-techdocs-node
 
+## 1.13.2-next.2
+
+### Patch Changes
+
+- 2d7a3b8: Update Azure file retrieval logic from storing file in buffer array to piping to res for better memory efficiency.
+
 ## 1.13.2-next.1
 
 ### Patch Changes

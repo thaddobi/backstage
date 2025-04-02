@@ -1,5 +1,13 @@
 # example-backend
 
+## 0.0.37-next.2
+
+### Patch Changes
+
+- Updated dependencies
+  - @backstage/plugin-search-backend-module-techdocs@0.4.1-next.2
+  - @backstage/plugin-techdocs-backend@2.0.1-next.2
+
 ## 0.0.37-next.1
 
 ### Patch Changes

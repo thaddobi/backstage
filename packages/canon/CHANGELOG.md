@@ -1,5 +1,12 @@
 # @backstage/canon
 
+## 0.3.0-next.2
+
+### Minor Changes
+
+- 1b0cf40: Add new Select component for Canon
+- 5074d61: **BREAKING**: Added a new TextField component to replace the Field and Input component. After feedback, it became clear that we needed to build a more opinionated version to avoid any problem in the future.
+
 ## 0.2.1-next.1
 
 ### Patch Changes
