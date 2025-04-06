@@ -122,7 +122,7 @@ customizing the experience you can group `SidebarItems` in a `SidebarGroup`
 ```
 
 ```tsx
-// Example 2
+/// Example 2
 <SidebarGroup label="Search" icon={<SearchIcon />} to="/search">
   ...
   <SidebarItem icon={ExtensionIcon} to="api-docs" text="APIs" />
